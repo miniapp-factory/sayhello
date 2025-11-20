@@ -40,3 +40,9 @@
 +Quiz content goes here.
 +
 +delete this section
+
+# 2025-11-20 19:23:42.492846
++When the application opens, show where to click and display the text “Click Here”. After the first click, that text should disappear. Once all texts are completed, a confetti effect and applause sounds should play. A repeat button should appear below. Pressing it should return to the beginning again.
+
+# 2025-11-20 19:23:42.494962
++When the application opens, show where to click and display the text “Click Here”. After the first click, that text should disappear. Once all texts are completed, a confetti effect and applause sounds should play. A repeat button should appear below. Pressing it should return to the beginning again.
